@@ -48,11 +48,11 @@ android/
 
 ### ✔️ Mobile
 
-![ Mobile](https://github.com/JagmohanJagwani/Flutter-Animations-Assignment/blob/0939ba8cb167314d9ff3e7f49cfcf0bf4e5f66bf/Desktop.png)
+![ Mobile](https://github.com/JagmohanJagwani/Battery_Level_Platform_Channel/blob/503ce7b92c4e6a1314020232e0f41c78761ea651/screenshot/Mobile%20Battery.jpeg)
 
 ### ✔️ Emulator
 
-![Emulator](https://github.com/JagmohanJagwani/Flutter-Animations-Assignment/blob/0939ba8cb167314d9ff3e7f49cfcf0bf4e5f66bf/Desktop.png)
+![Emulator](https://github.com/JagmohanJagwani/Battery_Level_Platform_Channel/blob/503ce7b92c4e6a1314020232e0f41c78761ea651/screenshot/Emulator%20Battery.png)
 ---
 
 ## 📚 Learning Outcome
